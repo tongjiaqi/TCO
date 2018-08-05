@@ -37,11 +37,11 @@ this training course is to assist trainee for：
 
   * 项目流程
  
-  * 编码规范
+  * 编码规范 (可维护的CSS、JavaScript)
   
-  * 注意事项
+  * WEB应用B/S架构：前后端分离
   
-  * 复原设计稿
+  * 基本功：复原设计稿，页面优化、兼容、适配等
   
   * 开发方向
 
@@ -58,6 +58,14 @@ this training course is to assist trainee for：
   * JS 设计模式、面向对象
   
   * JS 模块化
+  
+  * 本地存储：Cookie、localStorage、sessionStorage
+  
+  * 网络通讯 (http、ajax、websocket)
+  
+  * 渲染数据
+  
+  * 封装代码块
 
 * [WEB优化与兼容](https://github.com/tongjiaqi/Training-Course-Outline/wiki/WEB%E4%BC%98%E5%8C%96%E4%B8%8E%E5%85%BC%E5%AE%B9)
 
@@ -69,13 +77,15 @@ this training course is to assist trainee for：
   
   * 测试工具
   
-  * reset/Normalize
+  * Reset/Normalize
   
   * HTML5 + CSS3 IE 向下兼容
 
 * [WEB项目部署与维护](https://github.com/tongjiaqi/Training-Course-Outline/wiki/WEB%E9%A1%B9%E7%9B%AE%E9%83%A8%E7%BD%B2%E4%B8%8E%E7%BB%B4%E6%8A%A4)
 
-  * webpack、gulp
+  * Webpack、Gulp
+  
+  * Sass、Less
 
   * SVN/GIT
   
@@ -105,7 +115,7 @@ this training course is to assist trainee for：
   
   * 网络应用(WEB-APP)
   
-  *  H5交互小游戏
+  * H5交互小游戏
 
 * [微信小程序](https://github.com/tongjiaqi/Training-Course-Outline/wiki/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F)
 
