@@ -4,13 +4,13 @@
 
 Experimental Project Training
 
-## 课程目标 Training Target
+## 训后目标 Training Target
 
-在课程结束后，学员们将会：
+完成指定目标，各位将会：
 
 this training course is to assist trainee for：
 
-**新锐IT界WEB高阶开发工程师一枚，从此迎娶白富美，走上人生巅峰，成为XX市首富**
+**成为新锐IT界WEB高阶开发工程师一枚，从此迎娶白富美，走上人生巅峰，成为XX市首富**
 
 **如果你成功了，请不要忘记我，助我脱离苦海。**
 
@@ -23,7 +23,7 @@ this training course is to assist trainee for：
     
     2. 掌握前端热门主流框架
     
-    |    让学员由原来的面向过程编程转变到面向对象编程，模块化编程、组件化编程上来，使代码更优雅，更好维护。
+    |    由原来的面向过程编程转变到面向对象编程，模块化编程、组件化编程上来，使代码更优雅，更好维护。
     
     3. 掌握含WEB-APP、H5等移动端开发
     
