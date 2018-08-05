@@ -33,20 +33,89 @@ this training course is to assist trainee for：
 
 ## 课程大纲 Course Outline
 
-* [项目流程](https://github.com/tongjiaqi/Training-Course-Outline/wiki/%E9%A1%B9%E7%9B%AE%E6%B5%81%E7%A8%8B)
-
 * [项目标准](https://github.com/tongjiaqi/Training-Course-Outline/wiki/%E9%A1%B9%E7%9B%AE%E6%A0%87%E5%87%86)
+
+  * 项目流程
+ 
+  * 编码规范
+  
+  * 注意事项
+  
+  * 复原设计稿
+  
+  * 开发方向
 
 * [基础补强](https://github.com/tongjiaqi/Training-Course-Outline/wiki/%E5%9F%BA%E7%A1%80%E8%A1%A5%E5%BC%BA)
 
+  * CSS 标准盒模型 与 弹性盒模型
+  
+  * CSS Rem
+  
+  * JS 数据结构、数据类型、数据转换
+  
+  * JS 作用域、闭包、this指向
+  
+  * JS 设计模式、面向对象
+  
+  * JS 模块化
+
+* [WEB优化与兼容](https://github.com/tongjiaqi/Training-Course-Outline/wiki/WEB%E4%BC%98%E5%8C%96%E4%B8%8E%E5%85%BC%E5%AE%B9)
+
+  * 首屏加载、懒加载
+  
+  * 代码压缩、图片压缩
+  
+  * 页面结构
+  
+  * 测试工具
+  
+  * reset/Normalize
+  
+  * HTML5 + CSS3 IE 向下兼容
+
+* [WEB项目部署与维护](https://github.com/tongjiaqi/Training-Course-Outline/wiki/WEB%E9%A1%B9%E7%9B%AE%E9%83%A8%E7%BD%B2%E4%B8%8E%E7%BB%B4%E6%8A%A4)
+
+  * SVN/GIT
+  
+  * FTP
+
+* [WEB安全漏洞防范](https://github.com/tongjiaqi/Training-Course-Outline/wiki/WEB%E5%AE%89%E5%85%A8%E6%BC%8F%E6%B4%9E%E9%98%B2%E8%8C%83)
+
+  * HTTP与HTTPS
+  
+  * XSS 跨站脚本攻击
+  
+  * CSRF 跨站请求伪造
+  
+  * 文件I/O 漏洞
+  
+  * MD5 加密
+
 * [前端框架](https://github.com/tongjiaqi/Training-Course-Outline/wiki/%E5%89%8D%E7%AB%AF%E6%A1%86%E6%9E%B6)
 
+  * Vue 实战
+  
 * [移动端开发](https://github.com/tongjiaqi/Training-Course-Outline/wiki/%E7%A7%BB%E5%8A%A8%E7%AB%AF%E5%BC%80%E5%8F%91)
 
-* [网络应用(WEB-APP)](https://github.com/tongjiaqi/Training-Course-Outline/wiki/%E7%BD%91%E7%BB%9C%E5%BA%94%E7%94%A8)
-
-* [H5交互小游戏](https://github.com/tongjiaqi/Training-Course-Outline/wiki/H5%E4%BA%A4%E4%BA%92%E5%B0%8F%E6%B8%B8%E6%88%8F)
+  * 开发规范及注意事项
+  
+  * 网络应用(WEB-APP)
+  
+  *  H5交互小游戏
 
 * [微信小程序](https://github.com/tongjiaqi/Training-Course-Outline/wiki/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F)
 
-* [前端开发方向](https://github.com/tongjiaqi/Training-Course-Outline/wiki/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E6%96%B9%E5%90%91)
+  *  MINA 框架
+  
+  *  MINA 网络、媒体、文件、数据缓存、位置、设备、界面等API模块
+
+  *  微信登录
+  
+  *  微信支付
+  
+  *  微信分享
+  
+  *  微信卡劵
+  
+  *  微信客服
+  
