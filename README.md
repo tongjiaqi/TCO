@@ -135,7 +135,15 @@ this training course is to assist trainee for：
 
 * <s>服务端开发</s>
 
-  *  <s>NodeJS、Express、MySQL、MongoDB、Navicat</s>
+  *  <s>NodeJS、Express</s>
+  
+  *  <s>PHP、Lavarel</s>
+  
+  *  <s>Nginx、Apache、Tomcat、WAMP</s>
+
+  *  <s>MySQL、MongoDB、Navicat</s>
+  
+  *  <s>数据的增删改查</s>
 
 * [微信小程序](https://github.com/tongjiaqi/Training-Course-Outline/wiki/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F)
 
