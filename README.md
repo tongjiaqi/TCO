@@ -43,13 +43,23 @@ this training course is to assist trainee for：
 
   * 项目流程
  
-  * 编码规范 (可维护的CSS、JavaScript)
-  
+  * WEB标准：http标准、W3C标准和ECMAScript标准
+
   * WEB应用B/S架构：前后端分离
   
-  * 基本功：复原设计稿，页面优化、兼容、适配等
+  * WEB前端基本功：复原设计稿，页面优化、兼容、适配等
   
-  * 开发方向
+  * WEB前端编码规范 (可维护的CSS、JavaScript)
+  
+  * WEB前端开发工具：IDE，Chrome
+  
+  * WEB前端应用调试： Chrome，Httpwatch、Charles、Fiddler抓包工具，Postman接口工具
+  
+  * WEB前端自动化单元测试
+  
+  * Linux、Dos(cmd) 常用命令
+  
+  * WEB应用开发方向
 
 * [基础补强](https://github.com/tongjiaqi/Training-Course-Outline/wiki/%E5%9F%BA%E7%A1%80%E8%A1%A5%E5%BC%BA)
 
@@ -142,6 +152,8 @@ this training course is to assist trainee for：
   *  <s>Nginx、Apache、Tomcat、WAMP</s>
 
   *  <s>MySQL、MongoDB、Navicat</s>
+  
+  *  <s>封装API (前后端分离)</s>
   
   *  <s>数据的增删改查</s>
 
