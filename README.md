@@ -117,11 +117,11 @@ this training course is to assist trainee for：
   
   * 预处理器：Sass、Less
 
-  * SVN/GIT
+  * SVN/GIT 版本管理工具
   
-  * FTP
+  * FTP, SFTP, SCP, RSYNC 传输工具
   
-  * 服务器配置
+  * 域名、服务器配置
 
 * [WEB安全漏洞防范](https://github.com/tongjiaqi/Training-Course-Outline/wiki/WEB%E5%AE%89%E5%85%A8%E6%BC%8F%E6%B4%9E%E9%98%B2%E8%8C%83)
 
