@@ -10,6 +10,11 @@ Experimental Project Training
 
 this training course is to assist trainee for：
 
+**新锐IT界WEB高阶开发工程师一枚，从此迎娶白富美，走上人生巅峰，成为XX市首富**
+
+**如果你成功了，请不要忘记我，助我脱离苦海。**
+
+<s>
 
     1. 掌握真实企业项目开发、项目开发流程
     
@@ -30,6 +35,7 @@ this training course is to assist trainee for：
     
     |    微信小程序的基础语法、能开发简单的小程序项目
 
+</s>
 
 ## 课程大纲 Course Outline
 
