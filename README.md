@@ -59,13 +59,19 @@ this training course is to assist trainee for：
   
   * JS 模块化
   
-  * 本地存储：Cookie、localStorage、sessionStorage
+  * JS 本地存储：Cookie、localStorage、sessionStorage
   
-  * 网络通讯 (http、ajax、websocket)
+  * JS 网络通讯 (http、ajax、websocket)
   
-  * 渲染数据
+  * JS 渲染数据
   
-  * 封装代码块
+  * JS 封装代码块
+
+  * 插件：Swiper、Echarts
+  
+  * UI库：Bootstrap、<s>EasyUI</s>
+  
+  * 模板引擎：<s>artTemplate(doT)</s>、<s>Handlebars</s>、<s>ejs</s>、hogan
 
 * [WEB优化与兼容](https://github.com/tongjiaqi/Training-Course-Outline/wiki/WEB%E4%BC%98%E5%8C%96%E4%B8%8E%E5%85%BC%E5%AE%B9)
 
@@ -83,9 +89,9 @@ this training course is to assist trainee for：
 
 * [WEB项目部署与维护](https://github.com/tongjiaqi/Training-Course-Outline/wiki/WEB%E9%A1%B9%E7%9B%AE%E9%83%A8%E7%BD%B2%E4%B8%8E%E7%BB%B4%E6%8A%A4)
 
-  * Webpack、Gulp
+  * 工程构建：Webpack、Gulp
   
-  * Sass、Less
+  * 预处理器：Sass、Less
 
   * SVN/GIT
   
@@ -107,15 +113,23 @@ this training course is to assist trainee for：
 
 * [前端框架](https://github.com/tongjiaqi/Training-Course-Outline/wiki/%E5%89%8D%E7%AB%AF%E6%A1%86%E6%9E%B6)
 
-  * Vue 实战
+  * Vue 实战 (含Swiper、Echarts)
+  
+  * MUI 实战
+  
+  * <s>Ext.js</s>
   
 * [移动端开发](https://github.com/tongjiaqi/Training-Course-Outline/wiki/%E7%A7%BB%E5%8A%A8%E7%AB%AF%E5%BC%80%E5%8F%91)
 
   * 开发规范及注意事项
   
-  * 网络应用(WEB-APP)
+  * 网络应用 (Web APP 、Native APP、Hybrid APP)
   
   * H5交互小游戏
+
+* <s>服务端开发</s>
+
+  *  <s>NodeJS、Express、MySQL、MongoDB、Navicat</s>
 
 * [微信小程序](https://github.com/tongjiaqi/Training-Course-Outline/wiki/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F)
 
@@ -132,4 +146,7 @@ this training course is to assist trainee for：
   *  微信卡劵
   
   *  微信客服
-  
+
+* <s>商业项目模块分解</s>
+
+* <s>微信全套开发（公众号嵌入小程序、H5）</s>
