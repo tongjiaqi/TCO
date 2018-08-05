@@ -75,9 +75,13 @@ this training course is to assist trainee for：
 
 * [WEB项目部署与维护](https://github.com/tongjiaqi/Training-Course-Outline/wiki/WEB%E9%A1%B9%E7%9B%AE%E9%83%A8%E7%BD%B2%E4%B8%8E%E7%BB%B4%E6%8A%A4)
 
+  * webpack、gulp
+
   * SVN/GIT
   
   * FTP
+  
+  * 服务器配置
 
 * [WEB安全漏洞防范](https://github.com/tongjiaqi/Training-Course-Outline/wiki/WEB%E5%AE%89%E5%85%A8%E6%BC%8F%E6%B4%9E%E9%98%B2%E8%8C%83)
 
