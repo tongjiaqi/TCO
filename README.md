@@ -43,7 +43,13 @@ this training course is to assist trainee for：
 
   * 项目流程
  
-  * WEB标准：http标准、W3C标准和ECMAScript标准
+  * WEB应用四大标准：http 标准、W3C 标准、ECMAScript 标准、HTML5+ 标准
+  
+  * WEB应用用户体验
+  
+  * WEB应用开发方向
+  
+  * WEB应用网络安全
 
   * WEB应用B/S架构：前后端分离
   
@@ -58,8 +64,6 @@ this training course is to assist trainee for：
   * WEB前端自动化单元测试
   
   * Linux、Dos(cmd) 常用命令
-  
-  * WEB应用开发方向
 
 * [基础补强](https://github.com/tongjiaqi/Training-Course-Outline/wiki/%E5%9F%BA%E7%A1%80%E8%A1%A5%E5%BC%BA)
 
@@ -71,9 +75,7 @@ this training course is to assist trainee for：
   
   * JS 作用域、闭包、this指向
   
-  * JS 设计模式、面向对象
-  
-  * JS 模块化
+  * JS 设计模式、面向对象、模块化
   
   * JS 本地存储：Cookie、localStorage、sessionStorage
   
@@ -81,13 +83,19 @@ this training course is to assist trainee for：
   
   * JS 渲染数据
   
+  * JS 正则表达式
+
+  * JS 文件I/O
+  
   * JS 封装代码块
 
   * 插件：Swiper、Echarts
   
   * UI库：Bootstrap、<s>EasyUI</s>
   
-  * 模板引擎：<s>artTemplate(doT)</s>、<s>Handlebars</s>、<s>ejs</s>、hogan
+  * JS库：jQuery
+  
+  * <s>模板引擎：artTemplate(doT)、Handlebars、ejs、hogan</s>
 
 * [WEB优化与兼容](https://github.com/tongjiaqi/Training-Course-Outline/wiki/WEB%E4%BC%98%E5%8C%96%E4%B8%8E%E5%85%BC%E5%AE%B9)
 
@@ -130,10 +138,20 @@ this training course is to assist trainee for：
 * [前端框架](https://github.com/tongjiaqi/Training-Course-Outline/wiki/%E5%89%8D%E7%AB%AF%E6%A1%86%E6%9E%B6)
 
   * Vue 实战 (含Swiper、Echarts)
-  
+ 
   * MUI 实战
   
-  * <s>Ext.js</s>
+  * <s>Angular 实战</s>
+  
+  * <s>React 实战</s>
+  
+  * <s>Ember 实战</s>
+  
+  * <s>Dojo 实战</s>
+  
+  * <s>Aurelia 实战</s>
+   
+  * <s>Ext 实战</s>
   
 * [移动端开发](https://github.com/tongjiaqi/Training-Course-Outline/wiki/%E7%A7%BB%E5%8A%A8%E7%AB%AF%E5%BC%80%E5%8F%91)
 
@@ -141,17 +159,25 @@ this training course is to assist trainee for：
   
   * 网络应用 (Web APP 、Native APP、Hybrid APP)
   
+  * H5事件：点触、长按、滑屏、拖拽、旋拧、陀螺仪、重力感应等
+  
+  * H5调用：系统相册、系统摄像头、系统通讯录、系统文件I/O等
+ 
   * H5交互小游戏
+  
+  * <s>逐帧动画 + video 混合H5宣传页</s>
 
 * <s>服务端开发</s>
 
   *  <s>NodeJS、Express</s>
   
-  *  <s>PHP、Lavarel</s>
+  *  <s>PHP、Lavarel、WAMP</s>
   
-  *  <s>Nginx、Apache、Tomcat、WAMP</s>
+  *  <s>Nginx、Apache、Tomcat</s>
 
   *  <s>MySQL、MongoDB、Navicat</s>
+
+  *  <s>跨域</s>
   
   *  <s>封装API (前后端分离)</s>
   
