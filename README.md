@@ -4,6 +4,8 @@
 
 Experimental Project Training
 
+Author：佟佳奇
+
 ## 训后目标 Training Target
 
 完成指定目标，各位将会：
@@ -77,7 +79,7 @@ this training course is to assist trainee for：
   
   * JS 设计模式、面向对象、模块化
   
-  * JS 本地存储：Cookie、localStorage、sessionStorage
+  * JS 本地存储：localStorage、sessionStorage
   
   * JS 网络通讯 (http、ajax、websocket)
   
