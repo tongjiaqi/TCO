@@ -79,7 +79,7 @@ this training course is to assist trainee for：
   
   * JS 设计模式、面向对象、模块化
   
-  * JS 本地存储：localStorage、sessionStorage
+  * JS 本地存储
   
   * JS 网络通讯 (http、ajax、websocket)
   
