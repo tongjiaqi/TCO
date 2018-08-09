@@ -44,6 +44,8 @@ this training course is to assist trainee for：
 * [项目标准](https://github.com/tongjiaqi/Training-Course-Outline/wiki/%E9%A1%B9%E7%9B%AE%E6%A0%87%E5%87%86)
 
   * 项目流程
+  
+  * WEB前端基本功
  
   * WEB应用四大标准：http 标准、W3C 标准、ECMAScript 标准、HTML5+ 标准
   
@@ -55,11 +57,9 @@ this training course is to assist trainee for：
 
   * WEB应用B/S架构：前后端分离
   
-  * WEB前端基本功：复原设计稿，页面优化、兼容、适配等
-  
   * WEB前端编码规范 (可维护的CSS、JavaScript)
   
-  * WEB前端开发工具：IDE，Chrome
+  * WEB项目部署与维护
   
   * WEB前端应用调试： Chrome，Httpwatch、Charles、Fiddler抓包工具，Postman接口工具
   
@@ -68,6 +68,8 @@ this training course is to assist trainee for：
   * Linux、Dos(cmd) 常用命令
 
 * [基础补强](https://github.com/tongjiaqi/Training-Course-Outline/wiki/%E5%9F%BA%E7%A1%80%E8%A1%A5%E5%BC%BA)
+
+  * 复原设计稿
 
   * CSS 标准盒模型 与 弹性盒模型
   
