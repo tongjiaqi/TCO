@@ -6,6 +6,16 @@ Experimental Project Training
 
 Author：佟佳奇
 
+## 职业定位 Training Target
+
+**Web前端工程师是什么？**
+
+Web前端工程师是利用各种Web技术实现网站页面或客户端界面的专业人才，市场上最朝阳的互联网职业，致力于通过技术改善用户体验。
+
+**Web前端工程师的工作定位？**
+
+Web前端工程师需要理解产品设计需求，与设计师和后端工程师配合完成产品设计。
+
 ## 训后目标 Training Target
 
 完成指定目标，各位将会：
