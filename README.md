@@ -43,30 +43,30 @@ this training course is to assist trainee for：
 
 * [项目标准](https://github.com/tongjiaqi/Training-Course-Outline/wiki/%E9%A1%B9%E7%9B%AE%E6%A0%87%E5%87%86)
 
-  * 项目流程
+  * ！项目流程
   
-  * WEB前端基本功
+  * ！WEB前端基本功
  
-  * WEB应用四大标准：http 标准、W3C 标准、ECMAScript 标准、HTML5+ 标准
+  * ！WEB前端编码规范
   
   * WEB应用用户体验
   
+  * WEB应用四大标准
+
+  * WEB应用用户体验
+
   * WEB应用开发方向
-  
+
   * WEB应用网络安全
 
   * WEB应用B/S架构：前后端分离
-  
-  * WEB前端编码规范 (可维护的CSS、JavaScript)
-  
-  * WEB项目部署与维护
-  
-  * WEB前端应用调试： Chrome，Httpwatch、Charles、Fiddler抓包工具，Postman接口工具
-  
-  * WEB前端自动化单元测试
-  
-  * Linux、Dos(cmd) 常用命令
 
+  * WEB前端应用调试
+
+  * WEB前端自动化单元测试
+
+  * Linux、Dos(cmd) 常用命令
+ 
 * [基础补强](https://github.com/tongjiaqi/Training-Course-Outline/wiki/%E5%9F%BA%E7%A1%80%E8%A1%A5%E5%BC%BA)
 
   * 复原设计稿
@@ -141,7 +141,7 @@ this training course is to assist trainee for：
 
 * [前端框架](https://github.com/tongjiaqi/Training-Course-Outline/wiki/%E5%89%8D%E7%AB%AF%E6%A1%86%E6%9E%B6)
 
-  * Vue 实战 (含Swiper、Echarts)
+  * Vue 实战
  
   * MUI 实战
   
