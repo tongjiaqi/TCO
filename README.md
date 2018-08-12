@@ -1,10 +1,14 @@
 # Training-Course-Outline
 
-体验式项目实训
+**Experimental Project Training**
 
-Experimental Project Training
+**体验式项目实训 www.51program.com**
 
-Author：佟佳奇
+**Author：佟佳奇**
+
+视频暂不公开，请联系作者QQ：530099417，敬请谅解！
+
+传播请标注来源，肆意传播将追究法律责任
 
 ## 职业定位 Training Target
 
@@ -78,7 +82,9 @@ this training course is to assist trainee for：
   * Linux、Dos(cmd) 常用命令
  
 * [基础补强](https://github.com/tongjiaqi/Training-Course-Outline/wiki/%E5%9F%BA%E7%A1%80%E8%A1%A5%E5%BC%BA)
-
+  
+  * 前端页面渲染机制
+    
   * 复原设计稿
 
   * CSS 标准盒模型 与 弹性盒模型
