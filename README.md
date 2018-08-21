@@ -2,9 +2,11 @@
 
 **Experimental Project Training**
 
-**体验式项目实训 www.51program.com**
+**体验式线下项目实训 www.51program.com**
 
 **Author：佟佳奇**
+
+**支持作者创业：www.52muzhi.com**
 
 视频暂不公开，请联系作者QQ：530099417，敬请谅解！
 
