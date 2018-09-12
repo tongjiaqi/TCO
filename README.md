@@ -43,8 +43,10 @@ this training course is to assist trainee for：
 3、专业：MUI、Vue + Vuex + Vue-Router + Axios + iview/ElementUI
 
 ## 课程大纲
-　　 
-  [大纲详情](https://github.com/tongjiaqi/Training-Course-Outline/wiki/%E8%AF%BE%E7%A8%8B%E5%A4%A7%E7%BA%B2)
+
+> 大纲包含：基础补强、WEB优化与兼容、项目标准、WEB项目部署与维护、前端框架、移动端开发、服务端开发、微信小程序开发、商业项目模块分解、WEB安全漏洞防范、微信全套开发
+ 
+　　详见[大纲详情](https://github.com/tongjiaqi/Training-Course-Outline/wiki/%E8%AF%BE%E7%A8%8B%E5%A4%A7%E7%BA%B2)
   
 ## 项目依赖(后续更新)
 
