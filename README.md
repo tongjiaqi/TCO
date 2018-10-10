@@ -44,8 +44,18 @@ this training course is to assist trainee for：
 
 HTML、CSS、javascript、ECMAScript、jQuery、rem
 
-webpack、Less、Ajax、Canvas、Echarts、bootstrap、ElementUI、MUI
+webpack、Less、Ajax、Canvas、bootstrap、ElementUI、MUI
 
-Vue、Vuex、Vue-Router、Axios、iview
+Socket.io、Echarts、jsonp
+
+Vue、Vuex、Vue-Router、Axios、iview、vueg
 
 MINA、WeUI
+
+## 后端技术栈
+
+Apache、Tomcat、mysql、mongodb、nginx、redis、Navicat
+
+PHP、Larvel、WAMP
+
+nodejs、Express、Koa、pm2
