@@ -42,20 +42,34 @@ this training course is to assist trainee for：
   
 ## 前端技术栈
 
-HTML、CSS、javascript、ECMAScript、jQuery、rem
+HTML、XML、CSS、Rem、Scss、Canvas、Photoshop
 
-webpack、Less、Ajax、Canvas、bootstrap、ElementUI、MUI
+javascript、ECMAScript、TypeScirpt、JSX、jsonp
 
-Socket.io、Echarts、jsonp
+jQuery、Echarts、ElementUI、MUI、bootstrap、Socket.io、Storage
 
-Vue、Vuex、Vue-Router、Axios、iview、vueg
+Webpack、Ajax、NodeJS、Gulp、doT、RequireJs
+
+Vue、Vuex、Vue-Router、Axios、Weex、Vant、iview、Vueg
+
+Angular、Cordova、Ionic
+
+React、React-Native
 
 MINA、WeUI
 
-## 后端技术栈
+SEO
 
-Apache、Tomcat、mysql、mongodb、nginx、redis、Navicat
+## 后端技术栈
 
 PHP、Larvel、WAMP
 
 nodejs、Express、Koa、pm2
+
+Mysql、Mongodb、Redis
+
+## 通用工具
+
+Apache、Tomcat、Nginx、Navicat
+
+Svn、Git
